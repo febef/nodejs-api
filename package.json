@@ -1,0 +1,22 @@
+{
+  "name": "sellingmachine-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/api",
+  "scripts": {
+    "start": "node bin/api",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/initdevteam/sellingmachine-api.git"
+  },
+  "author": "febef",
+  "license": "UNLICNSED",
+  "homepage": "https://bitbucket.org/initdevteam/sellingmachine-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0"
+  }
+}
