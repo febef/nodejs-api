@@ -1,3 +1,2 @@
-# Selling-Machine API#
+# A simple mysql API in nodejs#
 
-### Resources ###
