@@ -1,9 +1,9 @@
 {
   "db": {
-    "host": "localhost",
-    "user": "user",
-    "password": "password",
-    "database": "database name"
+    "host": "192.168.0.195",
+    "user": "febef",
+    "password": "toor",
+    "database": "sellingmachine"
   },
   "server": {
     "port": 8081
